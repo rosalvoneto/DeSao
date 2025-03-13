@@ -7,7 +7,7 @@ Available at: https://doi.org/10.26434/chemrxiv.7990910.v1
 Original repository:
 https://github.com/stan-his/DeepFMPO
 
-We are using this code as-is for the molecule alteration mechanism proposed by DeepFMPO.
+We are using this code as-is for the molecule alteration mechanism.
 """
 
 
