@@ -1,0 +1,8 @@
+fragment_file: Data/libfragments.smi
+lead_file: Data/Cannabinoid.csv
+MaxIterations: 4000
+temperatura_inicial: 30
+alpha: 0.9
+S: 100
+s_temp: 0.5
+SampleSize: 512
